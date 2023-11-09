@@ -1,6 +1,9 @@
 body{
-  background-color:l ;
+  background-color:red;
   font-family: ;
   font-size: ;
-  
+}
+aside{
+  background-color:blue;
+float:right;
 }
